@@ -1,0 +1,65 @@
+/*Melanie Corral MC_Communications*/
+html {
+	font-size: 22px;
+	background-color: lightgray;
+}
+body {
+	font-size: 22px;
+	background-color: lightgray;
+}
+table {
+	background-color:;
+	margin: 50px;
+	font-family: arial;
+    border-collapse: collapse;
+    width: 50%;
+    float: left;
+    display:block;
+    margin-top:10px;
+    /*margin-left:10px;*/
+}
+td, th {
+  border: 1px solid gray;
+  background-color: ghostwhite;
+  text-align: left;
+  padding: 8px;
+}
+h3 {
+	margin:10px;
+}
+.details td{
+  border: 4px solid gray;
+  text-align: left;
+  padding: 8px;
+}
+.details th{
+  border: 4px solid gray;
+  text-align: right;
+  padding: 8px;
+}
+button {
+  background-color: gray; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin:10px;
+}
+
+input {
+  background-color: gray; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  font-size: 24px;
+  width:50%;
+}
+
